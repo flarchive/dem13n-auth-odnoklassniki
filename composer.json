@@ -1,0 +1,33 @@
+{
+    "name": "dem13n/auth-odnoklassniki",
+    "description": "Allow users to login with Odnoklassniki.",
+    "type": "flarum-extension",
+    "keywords": ["authentication"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dem13n",
+            "email": "idem13n@gmail.com"
+        }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0-beta.8",
+        "ilukyanov/oauth2-odnoklassniki": "^0.4.2",
+        "behat/transliterator": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dem13n\\Auth\\Odnoklassniki\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Odnoklassniki Login",
+            "icon": {
+                "name": "fab fa-odnoklassniki",
+                "backgroundColor": "#EE8207",
+                "color": "#fff"
+            }
+        }
+    }
+}

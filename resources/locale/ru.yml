@@ -1,0 +1,11 @@
+dem13n-auth-ok:
+     admin:
+         ok_settings:
+              title: Настройки входа через Одноклассники
+              app_id_label: ID Приложения
+              app_public_label: Публичный ключ
+              app_secret_label: Секретный ключ
+              app_desc: Зарегистрировать свое приложение вы можете здесь <a>https://ok.ru/dk?st.cmd=appEditBasic&st.vpl.mini=false</a>
+              app_p:  Callback URL
+     forum:
+          login_with_ok_button: Войти через Одноклассники
