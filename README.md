@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of dem13n/auth-odnoklassniki.** Not for installation: use [Packagist](https://packagist.org/packages/dem13n/auth-odnoklassniki) or the [upstream repository](https://github.com/Dem13n/auth-odnoklassniki).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/dem13n-auth-odnoklassniki/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**1** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/dem13n-auth-odnoklassniki/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.1` | 2019-07-18 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/dem13n-auth-odnoklassniki/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/dem13n-auth-odnoklassniki.json](https://github.com/flarchive/archive-index/blob/main/packages/dem13n-auth-odnoklassniki.json)
 
